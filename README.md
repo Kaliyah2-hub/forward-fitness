@@ -14,3 +14,5 @@ A responsive, multi-page website for a fictional fitness brand focused on helpin
 - Embedded images and external links
 
 ##  📍 Live Demo Here: https://kaliyah2-hub.github.io/Forward-Fitness/
+
+##  📌 Purpose: Built to demonstrate real-world website structure and layout using semantic HTML and custom CSS
